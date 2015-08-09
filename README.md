@@ -1,7 +1,9 @@
 # iTunes Skin Tools for Mac
 --------------
 ![Sample Img](https://github.com/Apophenic/iTunes-Skin-Tools/blob/master/iTunesSkinTools/res/sample/sample.jpg)
-iTunes Skin Tools makes creating skins / themes for iTunes in Mac far more seamless and accessible by automating
+(Windows sample)
+iTunes Skin Tools makes creating skins / themes for iTunes in Mac far more seamless and accessible by
+automating
 the process of injecting and extracting resource files into iTunes.rsrc.
 
 ### How It Came To Be
@@ -19,6 +21,7 @@ primarily .png images used for the UI. Each resource has a unique Integer ID.
 ### iTunes.rsrc IDs
 -------------------------
 [Click here](http://htmlpreview.github.io/?https://github.com/Apophenic/iTunes-Skin-Tools/blob/master/Resource%20IDs/ResourceIDs.html) for a [comprehensive] guide of how resource IDs effects the UI.
+
 This guide was created using the Windows version of iTunes, but resource IDs are interchangeable between platforms.
 Note: For older versions of iTunes, most resource IDs remain unchanged, however some don't exist.
 
